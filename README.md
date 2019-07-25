@@ -3,9 +3,9 @@ A simple example to deploy Azure resources with Terraform
 
 ## Requirements
 
-### Azure Service Principle
+### Azure Service Principal
 
-To authenticate Terraform to Azure, a service principle is required.
+To authenticate Terraform to Azure, a Service Principal is required.
 
 Login to the Azure CLI
 
